@@ -38,7 +38,7 @@ except:
 ROOT = "/sys/class/gpio"
 
 # Edge possibilities
-NO_EDGE = 0
+NO_EDGE = 
 RISING_EDGE = 1
 FALLING_EDGE = 2
 BOTH_EDGE = 3
